@@ -2,7 +2,7 @@
 ## Basic Configuration
 ## -----------------------------------------------
 
-title = "Stori Wyllt"
+title = "Hugo Story"
 copyright = "{year}"
 
 ## -----------------------------------------------
@@ -13,12 +13,12 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "/"
-publishDir = "public"
+# baseURL = "/"
+# publishDir = "public"
 
 # Remote
-baseURL = "https://storiwyllt.cymru"
-#publishDir = "//centos/sites/hugodev/hugostory/"
+baseURL = "https://storiwyllt.cymru/"
+publishDir = "public"
 
 ## -----------------------------------------------
 ## Hugo Built-in Features
