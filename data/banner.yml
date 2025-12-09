@@ -1,10 +1,10 @@
 ####################### Banner #########################
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
-title : Stori Wyllt / Wild Story
+title : Stori Wyllt
 subtitle: |
-  Wildlife ID, habitat creation & storytelling workshops for primary schools, creating a wild story book & strengthening connections
+  Bringing nature to life with wildlife ID, habitat creation & storytelling workshops
 content : |
-  This is a <strong>Banner</strong> element, and it's generally used as an introduction or opening statement. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-banner">details</a>).
+  Stori Wyllt (Wild Story) is a pilot project for primary schools in Cardiff and Ceredigion running from March to June 2026. It is a collaboration between Cardiff and Ceredigion Nature Partnerships.
 button:
   label : "Get Started"
   link : "#first"
