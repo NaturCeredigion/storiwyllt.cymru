@@ -1,7 +1,7 @@
-title : "Pwyntiau trafod / Talking points"
+title : "Pwyntiau allweddol / Key points"
 content: |
   This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
-style: "style1 medium"
+style: "style3 medium"
 items:
   # feature item loop
   - name : "Natur / Nature"
@@ -9,12 +9,12 @@ items:
     style : "style2 major fa-hourglass-half"
 
   # feature item loop
-  - name : "Cross-curriculum"
+  - name : "Traws-gwricwlwm / Cross-curriculum"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "solid style2 major fa-lightbulb"
     
   # feature item loop
-  - name : "Bilingual"
+  - name : "Dwyieithog / Bilingual"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "solid style2 major fa-comments"
     
@@ -24,7 +24,12 @@ items:
     style : "solid style2 major fa-map"
     
   # feature item loop
-  - name : "Exhibition"
+  - name : "Yn seiliedig ar dystiolaeth / Evidence-based"
+    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    style : "style2 major fa-eye"
+
+  # feature item loop
+  - name : "Arddangosfa / Exhibition"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
     style : "style2 major fa-images"
     
