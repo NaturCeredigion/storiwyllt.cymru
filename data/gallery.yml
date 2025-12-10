@@ -33,10 +33,10 @@ pictures:
     thumb: "https://res.cloudinary.com/naturceredigion/image/upload/ar_540:382,c_crop/v1761165194/251022-ysgol-llanilar-drone-trees.jpg"
     button: "Hi-res"
 
-  - title: "Fennel and Black-thighed Hoverfly"
-    content: "Fennel is a native plant which is fantastic for pollinators."
-    image: "https://res.cloudinary.com/growdigital/image/upload/v1752935105/250719-hilldrop-fennel-hoverfly.webp"
-    thumb: "https://res.cloudinary.com/growdigital/image/upload/ar_540:382,c_crop/v1752935105/250719-hilldrop-fennel-hoverfly.webp"
+  - title: "Hairy Shieldbug"
+    content: "A common sight across Wales, they’re also known to feed on sloes, the fruit of the Blackthorn."
+    image: "https://res.cloudinary.com/naturceredigion/image/upload/v1742763656/120517-Hairy-Shield-Bug-LuisMiguelBugalloSanchez.jpg"
+    thumb: "https://res.cloudinary.com/naturceredigion/image/upload/ar_540:382,c_crop/v1742763656/120517-Hairy-Shield-Bug-LuisMiguelBugalloSanchez.jpg"
     button: "Hi-res"
 
   - title: "Multi-school nature-based workshop"

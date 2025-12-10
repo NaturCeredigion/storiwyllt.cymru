@@ -1,40 +1,40 @@
 title : "Pwyntiau allweddol / Key points"
 content: |
-  This is an <strong>Items</strong> element, and it's basically just a grid for organizing items of various types. You can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-items">details</a>).
+
 style: "style3 medium"
 items:
   # feature item loop
   - name : "Natur / Nature"
-    content : "Nature is in crisis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Mae natur mewn argyfwng ac mae angen ymgysylltiad trwy addysg. Nature is in crisis and we need engagement through education."
     style : "style2 major fa-hourglass-half"
 
   # feature item loop
   - name : "Traws-gwricwlwm / Cross-curriculum"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Mae gweithdai wedi'u strwythuro i gynnwys Camau Cynnydd y cwricwlwm ar draws gwyddoniaeth, y celfyddydau a'r dyniaethau. Workshops are structured to key-in to curriculum Progression Steps across science, arts and humanities."
     style : "solid style2 major fa-lightbulb"
     
   # feature item loop
   - name : "Dwyieithog / Bilingual"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Bydd holl ddeunydd Stori Wyllt yn ddwyieithog er mwyn datgelu cyfoeth ac amrywiaeth diwylliant Cymru. All Stori Wyllt material will be bilingual to unearth the richness and diversity of Welsh culture."
     style : "solid style2 major fa-comments"
     
   # feature item loop
   - name : "Creu lleoedd / Place making"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Rhoi ymdeimlad o berthyn i fyfyrwyr trwy ddefnyddio offer mapio cymunedol syml i nodi'r dirwedd. Bestow a sense of belonging for students by using simple, community mapping tools to mark the landscape."
     style : "solid style2 major fa-map"
     
   # feature item loop
   - name : "Yn seiliedig ar dystiolaeth / Evidence-based"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Dau gwis i fesur perthnasedd â natur a sgiliau adnabod bywyd gwyllt, canlyniadau dienw wedi'u cyhoeddi ar y wefan. Two quizzes to measure nature affinity and wildlife ID skills, anonymised results published on the website."
     style : "style2 major fa-eye"
 
   # feature item loop
   - name : "Arddangosfa / Exhibition"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Arddangosfa ar y cyd o lyfrau Stori Wyllt gan Geredigion a Chaerdydd yn arddangosfa Un Blaned Caerdydd ym mis Mehefin 2026. A joint exhibit of the Wild Story books by Ceredigion and Cardiff at the One Planet Cardiff exhibition in June 2026."
     style : "style2 major fa-images"
     
   # feature item loop
   - name : "Hwyl / Fun"
-    content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
+    content : "Pwy sydd ddim yn hoffi rhedeg o gwmpas y tu allan, gwneud pethau a chreu straeon?! Who doesn’t like running around outside, making things and creating stories?!"
     style : "solid style2 major fa-heart"
     

@@ -3,8 +3,6 @@ style: "style1 orient-right content-align-left image-position-center"
 id: "first"
 title : "Adrodd straeon / Storytelling"
 content: |
-  And yes, this is another <strong>Spotlight</strong> element, and it's also here because I need to fill a bit of space. Naturally, like any other spotlight, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
+  <p><i lang="cy">Drwy greu lluniau a gwehyddu straeon, gallwn wneud ein cysylltiad â'r byd byw o'n cwmpas yn ymwybodol eto. Bydd myfyrwyr yn gweithio gydag artistiaid lleol i greu llyfr Stori Wyllt unigryw a chymhellol, i'w arddangos yn nigwyddiad <a href="https://www.oneplanetcardiff.co.uk/">Un Blaned Caerdydd</a> ym mis Mehefin 2026.</i><br>
+  Through creating pictures and weaving stories, we can make conscious again our connection with the living world that surrounds us. Students will work with local artists to create a unique and compelling Wild Story book, to be exhibited at the <a href="https://www.oneplanetcardiff.co.uk/">One Planet Cardiff</a> event in June 2026.</p>
 image: "https://res.cloudinary.com/naturceredigion/image/upload/v1765297542/250709-aberaeron-grasslandid-pressed-flowers-laminated-square.jpg"
