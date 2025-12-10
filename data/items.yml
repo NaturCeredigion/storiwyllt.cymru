@@ -25,7 +25,7 @@ items:
     
   # feature item loop
   - name : "Yn seiliedig ar dystiolaeth / Evidence-based"
-    content : "Dau gwis i fesur perthnasedd â natur a sgiliau adnabod bywyd gwyllt, canlyniadau dienw wedi'u cyhoeddi ar y wefan. Two quizzes to measure nature affinity and wildlife ID skills, anonymised results published on the website."
+    content : "Dau gwis i fesur perthnasedd â natur a sgiliau adnabod bywyd gwyllt, canlyniadau dienw wedi'u cyhoeddi ar y wefan. Two quizzes: to measure nature affinity and wildlife ID skills, anonymised results published on the website."
     style : "style2 major fa-eye"
 
   # feature item loop
