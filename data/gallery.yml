@@ -1,7 +1,7 @@
 title: "Ysbrydoliaeth / Inspiration"
 style: "style1 medium lightbox"
 content: |
-  This is a <strong>Gallery</strong> element. It can behave as a lightbox (when given the <code>lightbox</code> class), and you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-gallery">details</a>).
+  Stori Wyllt is an evolution of the Grassland ID workshops by <a href="https://glaswelltirceredigion.cymru/">Glaswelltir Ceredigion</a>, inspired by a range of different individuals and organisations including <a href="https://www.grassroofcompany.co.uk/">John Little</a>, Yusef Samari from <a href="https://www.wwbic.org.uk/">West Wales Biodiversity Information Centre</a>, the <a href="https://hopegarden.uk/">Hope Garden</a>, Phil &amp; Anna Blackwood from <a href="https://www.bluegreencymru.com/">BlueGreenCymru</a> and Jack Richardson from <a href="https://childoftheearth.co.uk/">Child of the Earth.
 pictures:
   - title: "Drone Fly on Ragwort"
     content: "The Drone Fly hoverfly on a Common Ragwort, poisonous to grazing animals when eaten but one of the best wild flowers for pollinators."

@@ -2,8 +2,6 @@
 style: "style1 orient-left content-align-left image-position-center"
 title : "Creu cynefinoedd / Habitat creation"
 content: |
-  This is also a <strong>Spotlight</strong> element, and it's here because this demo would look a bit empty with just one spotlight. Like all spotlights, you can customize its <span class="demo-controls">appearance with a number of modifiers</span>, as well as assign it an optional <code>onload</code> or <code>onscroll</code> transition modifier (<a href="#reference-spotlight">details</a>).
-button: 
-  label: "Learn More"
-  link: "#"
+  <p><i lang="cy">Pan fyddwn ni'n gwybod mwy am ein cyd-fodau, gallwn ni helpu trwy greu lleoedd iddyn nhw fyw. Bydd gweithdai ymarferol gyda'n partneriaid <a href="https://www.welshwildlife.org/">Ymddiriedolaeth Natur</a> a <a href="https://cardished.cymru/">Cardished</a> yn dangos i fyfyrwyr sut i greu amrywiaeth o gynefinoedd, fel blychau nythu, gwestai gwenyn a phryfed, lagwnau pryfed hofran a hibernaculums, i gyd yn ymwneud â'r safle penodol.</i><br>
+  When we know more about our fellow beings, we can help by creating places for them to live. Hands-on workshops with our partners the <a href="https://www.welshwildlife.org/">Wildlife Trust</a> and <a href="https://cardished.cymru/">Cardished</a> will show students how to create a variety of habitat, such as nest boxes, bee & bug hotels, hoverfly lagoons and hibernaculums, all relating to the specific site.</p>
 image: "https://res.cloudinary.com/naturceredigion/image/upload/v1765297322/251105-couple-proud-finished-wwha-llys-owen-ysgol-gynradd-aberteifi-square.jpg"
