@@ -2,9 +2,9 @@
 style: "style1 orient-left content-align-left image-position-right fullscreen onload-image-fade-in onload-content-fade-right"
 title : Stori Wyllt
 subtitle: |
-  Bringing nature to life with wildlife ID, habitat creation & storytelling workshops
+  <p><i lang="cy">Dod â natur yn fyw. ID bywyd gwyllt, creu cynefinoedd a gweithdai adrodd straeon i greu Stori Wyllt.</i><br>Bringing nature to life. Wildlife ID, habitat creation & storytelling workshops to create a Wild Story.</p>
 content : |
-  Stori Wyllt (Wild Story) is a pilot project for primary schools in Cardiff and Ceredigion running from March to June 2026. It is a collaboration between Cardiff and Ceredigion Nature Partnerships.
+  <p><i lang="cy">Mae Stori Wyllt yn brosiect peilot ar gyfer ysgolion cynradd yng Nghaerdydd a Cheredigion sy’n rhedeg o fis Mawrth i fis Mehefin 2026. Mae’n gydweithrediad rhwng Partneriaethau Natur Lleol Caerdydd a Cheredigion.</i><br>Stori Wyllt is a pilot project for primary schools in Cardiff and Ceredigion running from March to June 2026. It is a collaboration between <a href="https://www.outdoorcardiff.com/biodiversity/cardiff-local-nature-partnership/">Cardiff</a> and <a href="https://www.naturceredigion.cymru/">Ceredigion</a> <a hef="https://www.biodiversitywales.org.uk/en/local-to-you/">Local Nature Partnerships</a>.</p>
 button:
   label : "Get Started"
   link : "#first"

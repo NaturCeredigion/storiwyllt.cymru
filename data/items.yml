@@ -4,9 +4,9 @@ content: |
 style: "style1 medium onscroll-fade-in"
 items:
   # feature item loop
-  - name : "One"
+  - name : "Nature"
     content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi dui turpis, cursus eget orci amet aliquam congue semper. Etiam eget ultrices risus nec tempor elit."
-    style : "style2 major fa-gem"
+    style : "style2 major fa-chess-pawn"
 
   # feature item loop
   - name : "Two"
