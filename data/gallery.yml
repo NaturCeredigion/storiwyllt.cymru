@@ -80,10 +80,5 @@ pictures:
     image: "https://res.cloudinary.com/growdigital/image/upload/v1752935104/250719-hilldrop-ditch-standing-logs-habitat.webp"
     thumb: "https://res.cloudinary.com/growdigital/image/upload/ar_540:382,c_crop/v1752935104/250719-hilldrop-ditch-standing-logs-habitat.webp"
     button: "Hi-res"
-
-  - title: "Your Wild Patch dashboard"
-    content: "A dashboard of wildlife ID records for a custom area, a very promising project by WWBIC."
-    image: "https://res.cloudinary.com/naturceredigion/image/upload/ar_540:382,c_crop/v1764533266/251130-your-wild-patch-dashboard.webp"
-    thumb: "https://res.cloudinary.com/naturceredigion/image/upload/v1764533266/251130-your-wild-patch-dashboard.webp"
-    button: "Hi-res"
+    
 
