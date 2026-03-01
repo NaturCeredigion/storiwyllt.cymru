@@ -33,7 +33,7 @@ disableKinds = ["taxonomy", "section"]
 
 [Params]
   description = "Bringing nature to life with wildlife ID, habitat creation & storytelling workshops"
-  logo = "images/banner.jpg"
+  logo = "images/grasslandid.jpg"
   favicon = true
 
 [Params.social]
